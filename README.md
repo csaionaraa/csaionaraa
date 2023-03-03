@@ -1,6 +1,4 @@
 ### Hii! I'm Carla Saionara, welcome :)
-
-- 🔭 Atualmente estou a procura de emprego
 - 🌱 Estou estudando JavaScript
 
 <div align="center">
