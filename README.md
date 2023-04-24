@@ -2,7 +2,7 @@
 - 🌱 Estou estudando JavaScript e ReactNative
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=csaionaraa&show_icons=true&theme=panda)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csaionaraa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+https://github-readme-stats.vercel.app/api/top-langs/?username=csaionaraa&layout=compact&theme=panda)](https://github.com/anuraghazra/github-readme-stats)
 
 <div>
  <img align="center" alt="Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />
