@@ -4,7 +4,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=csaionaraa&show_icons=true&theme=panda)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csaionaraa&layout=compact&theme=panda)](https://github.com/anuraghazra/github-readme-stats)
 
-<div>
+<div align="center">
  <img align="center" alt="Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />
  <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
  <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
