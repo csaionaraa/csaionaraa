@@ -1,5 +1,5 @@
 ### Hii! I'm Carla Saionara, welcome :)
-- 🌱 Estou estudando JavaScript
+- 🌱 Estou estudando JavaScript e ReactNative
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=csaionaraa&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csaionaraa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
